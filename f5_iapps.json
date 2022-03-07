@@ -1,0 +1,22 @@
+{
+    "big_ip_devices": [ 
+        {
+            "hostname": "my-bigip1.domain.com",
+            "iapps": [
+                "my-horizon-vs-internal",
+                "my-uag-vs-external",
+                "my-horizon-truesso-vs-internal",
+                "my-uag-vs-truesso-external"
+            ]
+        },
+        {
+            "hostname": "my-bigip2.domain.com",
+            "iapps": [
+                "my-horizon-vs-internal",
+                "my-uag-vs-external",
+                "my-horizon-truesso-vs-internal",
+                "my-uag-vs-truesso-external"
+            ]
+        }
+    ]
+}

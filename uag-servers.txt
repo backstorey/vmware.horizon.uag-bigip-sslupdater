@@ -1,0 +1,6 @@
+myuag1.domain.com
+myuag2.domain.com
+myuag3.domain.com
+myuag4.domain.com
+myuag5.domain.com
+myuag6.domain.com
