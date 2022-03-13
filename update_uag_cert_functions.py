@@ -1,4 +1,4 @@
-def update_uag_ssl_cert(pem_cert_file, pem_privkey_file, uag_servers_file, uag_admin_passwd, update_enduser, update_admin):
+def update_uag_ssl_cert(pem_cert_file, pem_privkey_file, uag_servers_file, uag_admin_passwd, update_enduser=False, update_admin=False):
     """
     Update SSL certificates on a UAG's END_USER and/or ADMIN interfaces.
 
